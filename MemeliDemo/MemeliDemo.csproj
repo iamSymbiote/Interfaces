@@ -46,6 +46,7 @@
     <Compile Include="CinsiyetEnum.cs" />
     <Compile Include="IMemeli.cs" />
     <Compile Include="Insan.cs" />
+    <Compile Include="IKonus.cs" />
     <Compile Include="Kedi.cs" />
     <Compile Include="Kopek.cs" />
     <Compile Include="Program.cs" />
